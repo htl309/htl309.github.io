@@ -2585,7 +2585,7 @@ pre .css ~ * .id {
     position: fixed;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(133, 122, 122, 0.85);
     z-index: 999;
   }
   .btnctn {
@@ -2809,7 +2809,7 @@ pre .css ~ * .id {
     margin: 0;
     position: relative;
     z-index: 2;
-    color: #424242;
+    color: #635f5f;
   }
   #mobile-nav .overlay {
     height: 110px;
@@ -2826,7 +2826,7 @@ pre .css ~ * .id {
     position: relative;
     z-index: 100;
   }
-  .header-menu {
+  .header-menu {  
     height: auto;
     margin: 10px 0 20px;
   }
