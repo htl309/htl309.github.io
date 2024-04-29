@@ -690,6 +690,15 @@ html, body, #container {
   height: 300px;
   position: relative;
   border-bottom: 1px solid color-border;
+  .header-introduction-text-align: center;
+  .header-introduction-color: #999;
+  .header-introduction-font-size: 14px;
+  .header-introduction-line-height: 25px;
+  .header-introduction-overflow: hidden;
+  .header-introduction-text-overflow: ellipsis;
+  .header-introduction-display: -webkit-box;
+  .header-introduction--webkit-line-clamp: 2;
+  .header-introduction--webkit-box-orient: vertical;
 }
 .left-col #header a {
   color: #696969;
@@ -2730,7 +2739,7 @@ pre .css ~ * .id {
   }
   .btnctn .slider-trigger .icon {
     font-size: 24px;
-    color: #fff;
+    color: #0a7d81;
   }
   .article-header {
     border-left: none;
